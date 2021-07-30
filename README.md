@@ -1,6 +1,9 @@
-![Vector](https://user-images.githubusercontent.com/79497113/127716196-df802b1f-9305-40e3-a80a-bc3466c913a3.png)
-
-<h1 align="center">Hi 👋, I'm Aryamitra Chaudhuri</h1>
+<p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/79497113/127716630-425d191a-d8ef-4303-b7ec-a4bbebb1188a.gif">
+</p>  
+  
+  
+<h1 align="center">Hi 👋, I'm Arya!</h1>
 <h3 align="center">A passionate programmer, developer and UI/UX enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" /> </p>
