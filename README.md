@@ -1,3 +1,5 @@
+![Vector](https://user-images.githubusercontent.com/79497113/127716196-df802b1f-9305-40e3-a80a-bc3466c913a3.png)
+
 <h1 align="center">Hi 👋, I'm Aryamitra Chaudhuri</h1>
 <h3 align="center">A passionate programmer, developer and UI/UX enthusiast.</h3>
 
