@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/beingaryamitra" target="blank"><img src="https://img.shields.io/twitter/follow/beingaryamitra?logo=twitter&style=for-the-badge" alt="beingaryamitra" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and other frameworks**
+- 🌱 I’m currently learning **ReactJS, Flutter and other frameworks**
 
 - 👨‍💻 Website [https://www.aryamitrachaudhuri.com/](https://www.aryamitrachaudhuri.com/)
 
