@@ -13,8 +13,6 @@
 
 - 📫 Email **caryamitra@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamitra06&show_icons=true&locale=en&layout=compact" alt="aryamitra06" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryamitra06&show_icons=true&locale=en" alt="aryamitra06" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamitra06&show_icons=true&locale=en&layout=compact" alt="aryamitra06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamitra06&" alt="aryamitra06" /></p>
