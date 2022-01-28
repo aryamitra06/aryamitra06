@@ -1,14 +1,57 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" /> </p><h2>Hi, I'm Aryamitra! 👋☕</h2>
-<img src="https://user-images.githubusercontent.com/79497113/151613137-0554aa73-171a-48a3-8e24-a486be163904.png">
+<img src="https://user-images.githubusercontent.com/79497113/151613906-4e2d44c0-f1c9-4ec1-b51f-516005c756d1.png">
 
-<h6>Prospective Computer Science Engineer. Full Stack Web (MERN, LAMP) Developer | UI/UX enthusiast | Java | JavaScript | Python | Dart | PHP</h3>
-
-<h4>Programming Languages</h4>
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/beingaryamitra)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aryamitrachaudhuri/)
 
 
-- 👨‍💻 Portfolio [https://www.aryamitrachaudhuri.com/](https://www.aryamitrachaudhuri.com/)
-- 📫 Email **caryamitra@gmail.com**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" />
+<h3> Hey there! 👋</h2>
+<p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<br>
+Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.com">Check out my portfolio</a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamitra06&show_icons=true&locale=en&layout=compact" alt="aryamitra06" /></p>
+## 📌 Pinned Repositories
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryamitra06&" alt="aryamitra06" /></p>
+<br>
+
+<a href="https://github.com/aryamitra06/markswise">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamitra06&repo=markswise&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aryamitra06/inotebook">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamitra06&repo=inotebook&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aryamitra06/codefront-ide">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamitra06&repo=codefront-ide&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aryamitra06/7bit-hamming-code-solver">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamitra06&repo=7bit-hamming-code-solver&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aryamitra06/textify">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aryamitra06&repo=textify&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+  
+<br>
+<br>
+  
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/aryamitra06">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamitra06&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/aryamitra06">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aryamitra06&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
+</a>
+
+
+
+<br>
+<br>
+
+
