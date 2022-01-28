@@ -1,16 +1,12 @@
-<h1>Hey, this is Aryamitra! ☕</h1>
-<h3>A passionate programmer, developer and UI/UX enthusiast.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" /> </p><h2>Hi, I'm Aryamitra! 👋☕</h2>
+![header](https://user-images.githubusercontent.com/79497113/151613137-0554aa73-171a-48a3-8e24-a486be163904.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" /> </p>
+<h6>Prospective Computer Science Engineer. Full Stack Web (MERN, LAMP) Developer | UI/UX enthusiast | Java | JavaScript | Python | Dart | PHP</h3>
 
-<p align="left"> <a href="https://twitter.com/beingaryamitra" target="blank"><img src="https://img.shields.io/twitter/follow/beingaryamitra?logo=twitter&style=for-the-badge" alt="beingaryamitra" /></a> </p>
+<h4>Programming Languages</h4>
 
-- 🌱 I’m currently learning **ReactJS, Flutter and other frameworks**
 
-- 👨‍💻 Website [https://www.aryamitrachaudhuri.com/](https://www.aryamitrachaudhuri.com/)
-
-- 💬 Ask me about **JavaScript and UI/UX development**
-
+- 👨‍💻 Portfolio [https://www.aryamitrachaudhuri.com/](https://www.aryamitrachaudhuri.com/)
 - 📫 Email **caryamitra@gmail.com**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryamitra06&show_icons=true&locale=en&layout=compact" alt="aryamitra06" /></p>
