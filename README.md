@@ -1,8 +1,3 @@
-<p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/79497113/127716630-425d191a-d8ef-4303-b7ec-a4bbebb1188a.gif">
-</p>  
-  
-  
 <h1 align="center">Hi 👋, I'm Arya!</h1>
 <h3 align="center">A passionate programmer, developer and UI/UX enthusiast.</h3>
 
