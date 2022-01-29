@@ -11,7 +11,7 @@
 <span>Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.com">Check out my portfolio</a></span>
 <br>
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=aryamitra06&theme=minimal">
+<img src="https://activity-graph.herokuapp.com/graph?username=aryamitra06&theme=react-dark">
  	
 ## 📌 Pinned Repositories
 
