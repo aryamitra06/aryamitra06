@@ -6,10 +6,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" />
 <h3> Hey there! 👋</h2>
-<p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+<p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</p>
 <br>
-Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.com">Check out my portfolio</a>
-
+<span>Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.com">Check out my portfolio</a></span>
+<br>
+<br>
+ 
 ## 📌 Pinned Repositories
 
 <br>
