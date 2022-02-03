@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/79497113/151613906-4e2d44c0-f1c9-4ec1-b51f-516005c756d1.png">
+![Daaman](https://user-images.githubusercontent.com/79497113/152427332-a361ba23-8135-4a59-9813-e4ab64672794.png)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/beingaryamitra)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aryamitrachaudhuri/)
