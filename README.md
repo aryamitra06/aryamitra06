@@ -1,4 +1,4 @@
-![Daaman](https://user-images.githubusercontent.com/79497113/164889644-b40feb9e-62e6-4ea3-b1f2-8f6a6533fb2c.png)
+![Daaman (1)](https://user-images.githubusercontent.com/79497113/164889674-4135d1cc-c093-4cef-a1cc-bfa359422a9a.png)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/beingaryamitra)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aryamitrachaudhuri/)
@@ -8,12 +8,12 @@
 <h3> Hey there! 👋</h2>
 <p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</p>
 <br>
-<span>Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.com">Check out my portfolio</a></span>
+<span>Want to know more about me?😉 <a href="https://www.aryamitrachaudhuri.live">Check out my portfolio</a></span>
 <br>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=aryamitra06&theme=react-dark">
  	
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories
 
 <br>
 
@@ -38,7 +38,7 @@
 </a>
   
 <br>
-<br>
+<br> -->
   
 ## &#x1f4c8; GitHub Stats
 
@@ -47,7 +47,7 @@
 <a href="https://github.com/aryamitra06">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryamitra06&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+&nbsp;
 <a href="https://github.com/aryamitra06">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aryamitra06&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
