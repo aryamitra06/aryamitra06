@@ -2,7 +2,7 @@
 <h3> Hey there! 👋</h2>
 <p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</p>
 <br>
-<span>Want to know more about me?😉 <a href="aryamitra.netlify.app">Check out my portfolio</a></span>
+<span>Want to know more about me?😉 <a href="https://aryamitra.netlify.app">Check out my portfolio</a></span>
 <br>
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=aryamitra06&theme=react-dark">
