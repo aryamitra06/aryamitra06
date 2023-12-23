@@ -1,9 +1,3 @@
-![Daaman (1)](https://user-images.githubusercontent.com/79497113/164889674-4135d1cc-c093-4cef-a1cc-bfa359422a9a.png)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/beingaryamitra)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aryamitrachaudhuri/)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryamitra06&label=Profile%20views&color=0e75b6&style=flat" alt="aryamitra06" />
 <h3> Hey there! 👋</h2>
 <p>I'm Aryamitra, a self-taught programmer, creative coder, user experience enthusiast and self-proclaimed developer specializes in full stack development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.</p>
